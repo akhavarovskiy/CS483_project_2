@@ -1,0 +1,55 @@
+# Write Up
+
+## Dom Representation
+
+```
+BODY 
+  HEADER 
+    H1
+      #text: "Contact Us"
+  NAV 
+    UL 
+      LI 
+        A 
+          #text: "Home" 
+      LI 
+        A 
+          #text: "About Us" 
+      LI
+        A
+          #text: "Contact"
+  MAIN
+    H2
+      #text: "Get in touch"
+    P
+      #text: "If you have any questions or would like to book our services, 
+                feel free to reach out to us be using the contact form below."
+    FORM#my_form
+      LABEL
+        #text: "Your Name:"
+      INPUT#your_name
+      BR 2
+      LABEL
+        #text: "Your Email:"
+      INPUT#your_name
+      BR 2
+      LABEL
+        #text: "Your Message:"
+      BR
+      TEXTAREA#your_message
+      BR 2
+      BUTTON
+        #text: "Submit"
+      BR
+  FOOTER
+    #text: "Contact us at:"
+    A
+      #text: "info@petsitting.com"
+```
+
+<p>
+ The page meets SEO requirements since the page is broken out into specific sections. 
+ The language of the page is set in the html element to allow the search engines to understand who to best serve the content to.
+ The navigation section is clearly marked and will be used by the seach engine to find related pages.
+ The main content of the page is clearly marked with a single header encompasing the purpose of the page. The form with name, email, and text section will allow search engines to better understand the purpose of the page. 
+</p>
