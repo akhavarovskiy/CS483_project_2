@@ -64,5 +64,6 @@ BODY
  The language of the page is set in the html element to allow the search engines to understand who to best serve the content to.
  The navigation section is clearly marked and will be used by the seach engine to find related pages.
  The main content of the page is clearly marked with a single header encompasing the purpose of the page. The form with name, email, and text section will allow search engines to better understand the purpose of the page.
- Each of the for elements has a corresponding label element allowing for screen readers to allow vision impared users to understand the form content. 
+ Each of the for elements has a corresponding label element allowing for screen readers to allow vision impared users to understand the form content.
+ Each of the input types are also clearly labeled which will enforce validation by the browser for each type of field. 
 </p>
