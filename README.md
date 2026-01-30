@@ -10,7 +10,7 @@ contact.html - Contact page for website
 about.html - A page describing the website
 
 ## Github Pages Link
-<a href="akhavarovskiy.github.io/CS483_project_2">Link</a>
+<a href="https://akhavarovskiy.github.io/CS483_project_2">Link</a>
 
 ## Dom Representation
 
