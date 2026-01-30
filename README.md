@@ -1,8 +1,10 @@
 # Write Up
+Name: Aleksandr Khavarovskiy
+Email: a.khavarovskiy@wsu.edu
 
 ## Includes Files
 
-proje2_assets - Assets Used by Webpage
+proj2_assets - Assets Used by Webpage
 index.html - Main Page
 contact.html - Contact page for website
 about.html - A page describing the website
