@@ -1,5 +1,15 @@
 # Write Up
 
+## Includes Files
+
+proje2_assets - Assets Used by Webpage
+index.html - Main Page
+contact.html - Contact page for website
+about.html - A page describing the website
+
+## Github Pages Link
+<a href="akhavarovskiy.github.io/CS483_project_2">Link</a>
+
 ## Dom Representation
 
 ```
